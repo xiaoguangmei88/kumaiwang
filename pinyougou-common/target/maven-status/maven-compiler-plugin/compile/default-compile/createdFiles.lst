@@ -1,0 +1,5 @@
+com\pinyougou\common\pojo\PageResult.class
+com\pinyougou\common\utils\HttpClientUtils.class
+com\pinyougou\common\utils\CookieUtils.class
+com\pinyougou\common\utils\IdWorker.class
+com\pinyougou\common\utils\CookieUtils$CookieName.class
